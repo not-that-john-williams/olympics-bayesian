@@ -1,6 +1,5 @@
 ---
-title: "Home-Field Advantage in the Summer Olympics:"
-subtitle: "A Bayesian Analysis"
+title: 'Home-Field Advantage in the Summer Olympics:  A Bayesian Analysis'
 author: "John Williams"
 date: "2/19/2022"
 ---
